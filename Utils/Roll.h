@@ -6,6 +6,7 @@
 class Roll {
 public:
     static int rollStat();
+    static std::string chooseClassRace(const std::vector<std::string>& listOfClassesRaces);
 };
 
 #endif

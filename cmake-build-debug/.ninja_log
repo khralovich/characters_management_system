@@ -1,10 +1,12 @@
 # ninja log v5
-332	398	1712335463858529436	customer_management_system	eee076b3af8100e7
-340	414	1712690035388468681	character_management_system	ef15c85c1390ef79
-1	357	1712691133047656190	CMakeFiles/character_management_system.dir/src/Character.cpp.o	c6b8a078523a791
-0	385	1712691133075656107	CMakeFiles/character_management_system.dir/src/main.cpp.o	7fa735318c3f4174
-1	582	1712691133271655529	CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o	6c8636711462e7a2
-582	660	1712691133347655302	character_management_system	19c690c0f9003dd1
 1	436	1712691329847255191	CMakeFiles/character_management_system.dir/src/main.cpp.o	7fa735318c3f4174
-1	660	1712691330071254919	CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o	6c8636711462e7a2
+332	398	1712335463858529436	customer_management_system	eee076b3af8100e7
 660	744	1712691330155254813	character_management_system	19c690c0f9003dd1
+1	357	1712691133047656190	CMakeFiles/character_management_system.dir/src/Character.cpp.o	c6b8a078523a791
+1	660	1712691330071254919	CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o	6c8636711462e7a2
+0	424	1712691905663397701	CMakeFiles/character_management_system.dir/src/main.cpp.o	7fa735318c3f4174
+1	531	1712691905771397835	CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o	6c8636711462e7a2
+531	607	1712691905847397931	character_management_system	19c690c0f9003dd1
+2	405	1712692346024128180	CMakeFiles/character_management_system.dir/src/main.cpp.o	7fa735318c3f4174
+2	551	1712692346168128460	CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o	6c8636711462e7a2
+552	628	1712692346244128611	character_management_system	19c690c0f9003dd1
