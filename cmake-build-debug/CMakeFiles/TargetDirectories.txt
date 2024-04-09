@@ -1,0 +1,3 @@
+/home/nasta/git_repos/characters_management_system/cmake-build-debug/CMakeFiles/character_management_system.dir
+/home/nasta/git_repos/characters_management_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nasta/git_repos/characters_management_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
