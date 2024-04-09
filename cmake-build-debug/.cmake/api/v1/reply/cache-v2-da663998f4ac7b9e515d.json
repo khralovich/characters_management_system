@@ -1188,42 +1188,6 @@
 			],
 			"type" : "STATIC",
 			"value" : "/home/nasta/git_repos/characters_management_system"
-		},
-		{
-			"name" : "customer_management_system_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/nasta/git_repos/characters_management_system/cmake-build-debug"
-		},
-		{
-			"name" : "customer_management_system_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "customer_management_system_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/nasta/git_repos/characters_management_system"
 		}
 	],
 	"kind" : "cache",

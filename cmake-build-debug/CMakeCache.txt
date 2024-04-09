@@ -224,15 +224,6 @@ character_management_system_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 character_management_system_SOURCE_DIR:STATIC=/home/nasta/git_repos/characters_management_system
 
-//Value Computed by CMake
-customer_management_system_BINARY_DIR:STATIC=/home/nasta/git_repos/characters_management_system/cmake-build-debug
-
-//Value Computed by CMake
-customer_management_system_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-customer_management_system_SOURCE_DIR:STATIC=/home/nasta/git_repos/characters_management_system
-
 
 ########################
 # INTERNAL cache entries
