@@ -1,2 +1,5 @@
 # ninja log v5
 332	398	1712335463858529436	customer_management_system	eee076b3af8100e7
+1	263	1712689230434335410	CMakeFiles/character_management_system.dir/Character.cpp.o	317aec1bb64f2c72
+0	385	1712689230558336796	CMakeFiles/character_management_system.dir/main.cpp.o	ec24bf1519836eed
+385	460	1712689230630337598	character_management_system	ef15c85c1390ef79

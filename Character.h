@@ -6,12 +6,12 @@
 
 class Character {
 public:
-    Character(std::string charName, std::string charRace, std::string charClass);
-
     std::string charName;
     std::string charRace;
     std::string charClass;
 
+    Character(std::string charName, std::string charRace, std::string charClass);
 };
+
 
 #endif
