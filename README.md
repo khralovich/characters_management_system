@@ -2,7 +2,7 @@
 
 ### Functionality:
 1. Assigning a name by the user (input-output operation)
-2. Randomizing and assigning character statistics using std::rand (data types, functions, constants and variables)
+2. Randomizing and assigning character statistics using 4d6 drop lowest method (data types, functions, constants and variables)
 3. User menu: create a new character or select from the list of existing ones -- search by class and race, show the number of already saved characters (range loop, sorting and search algorithms)
 4. Writing characters to a file, reading from a file
 5. Assigning equipment depending on the background (if else)
