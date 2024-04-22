@@ -10,11 +10,21 @@
 7. Biography and description of the hero based on their class/race/bg (text chains, reading and writing the chain)
 8. Sorting equipment every time a character gets a new item
 
-### Interface
-- walk
-- attack
-- pick an item
-- check inventory
-
+### Main menu:
+<ol>
+<li> create a character </li>
+<li> choose an existing one </li>
+<li> write a character to a file </li>
+<li> read a character from a file </li>
+<li> play a game
+<ol>
+<li>  walk  </li>
+<li>  attack  </li>
+<li>  pick an item  </li>
+<li>  check inventory  </li>
+</ol>
+</li>
+</ol>
+  
 ### Additional feature:
 A multi-user dungeon like mini-game (a 2d array, where 0 is a normal terrain, 1 is a fight, 2 is an item etc -- mind the borders!)
