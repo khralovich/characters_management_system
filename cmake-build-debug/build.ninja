@@ -67,6 +67,12 @@ build CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles/character_management_system.dir
   OBJECT_FILE_DIR = CMakeFiles/character_management_system.dir/Utils
 
+build CMakeFiles/character_management_system.dir/src/Menu.cpp.o: CXX_COMPILER__character_management_system_unscanned_Debug /home/nasta/git_repos/characters_management_system/src/Menu.cpp || cmake_object_order_depends_target_character_management_system
+  DEP_FILE = CMakeFiles/character_management_system.dir/src/Menu.cpp.o.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/character_management_system.dir
+  OBJECT_FILE_DIR = CMakeFiles/character_management_system.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target character_management_system
@@ -75,7 +81,7 @@ build CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o: CXX_COMPILER_
 #############################################
 # Link the executable character_management_system
 
-build character_management_system: CXX_EXECUTABLE_LINKER__character_management_system_Debug CMakeFiles/character_management_system.dir/src/main.cpp.o CMakeFiles/character_management_system.dir/src/Character.cpp.o CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o
+build character_management_system: CXX_EXECUTABLE_LINKER__character_management_system_Debug CMakeFiles/character_management_system.dir/src/main.cpp.o CMakeFiles/character_management_system.dir/src/Character.cpp.o CMakeFiles/character_management_system.dir/Utils/Roll.cpp.o CMakeFiles/character_management_system.dir/src/Menu.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/character_management_system.dir
   POST_BUILD = :

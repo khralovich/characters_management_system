@@ -7,4 +7,5 @@ add_executable(character_management_system src/main.cpp
         src/Character.h
         src/Character.cpp
         Utils/Roll.cpp
-        Utils/Roll.h)
+        Utils/Roll.h
+        src/Menu.cpp)
